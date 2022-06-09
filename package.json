@@ -2,7 +2,7 @@
     "name": "@federicoschonborn/prettier-config",
     "version": "0.1.1",
     "description": "Shared configuration for Prettier",
-    "main": ".prettierrc",
+    "main": "index.json",
     "repository": "git+https://github.com/FedericoSchonborn/prettier-config.git",
     "author": "Federico Damián Schonborn <fdschonborn@gmail.com>",
     "license": "BSD-3-Clause"
