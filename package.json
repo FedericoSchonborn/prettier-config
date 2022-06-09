@@ -1,6 +1,6 @@
 {
     "name": "@federicoschonborn/prettier-config",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "Shared configuration for Prettier",
     "main": "index.json",
     "repository": "git+https://github.com/FedericoSchonborn/prettier-config.git",
